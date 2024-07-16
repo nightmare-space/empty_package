@@ -1,3 +1,5 @@
-int calculate() {
-  return 6 * 7;
+void initPersonal() {
+  // empty implementation
 }
+
+Future<void> initApi(String name, String package) async {}
