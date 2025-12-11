@@ -7,6 +7,8 @@ Map<String, Function> zh_cn_messages = {};
 
 bool enableCustomPlugins = false;
 
+// TODO: Make sure the others use this repo can normally work.
+
 class AppStarterPlugin extends ADBKITPlugin{
   @override
   Widget buildWidget(BuildContext context, device) {
